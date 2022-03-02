@@ -1,0 +1,6 @@
+*-backups
+*.swp
+*.kicad_pcb-bak
+*.kicad_prl
+
+
