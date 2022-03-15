@@ -16,8 +16,8 @@ Each part is designed as PCB in KiCad, and can be built at any PCB manufacturer 
 
 Two COTS parts are added to the cover: 
 
-    - Conductive gasket - [Laird Technologies 4245PA51H01800](https://www.digikey.com/en/products/detail/laird-technologies-emi/4245PA51H01800/2175938) - A 1mm thick, 3mm wide strip of foam gasket in conductive fabric. This serves to create pressure on the top plate, and to make contact to the ITO coating via copper tape.
-    - Header pin - A single, right angle header, like [Sullins GBC01SBSN-M89](https://www.digikey.com/en/products/detail/sullins-connector-solutions/GBC01SBSN-M89/862318) or similar
+- Conductive gasket - [Laird Technologies 4245PA51H01800](https://www.digikey.com/en/products/detail/laird-technologies-emi/4245PA51H01800/2175938) - A 1mm thick, 3mm wide strip of foam gasket in conductive fabric. This serves to create pressure on the top plate, and to make contact to the ITO coating via copper tape.
+- Header pin - A single, right angle header, like [Sullins GBC01SBSN-M89](https://www.digikey.com/en/products/detail/sullins-connector-solutions/GBC01SBSN-M89/862318) or similar
 
 # Dimensions
 
